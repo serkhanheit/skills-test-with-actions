@@ -7,6 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+[![CI](https://github.com/serkhanheit/skills-test-with-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/serkhanheit/skills-test-with-actions/actions/workflows/ci.yml)
+
 # Test with Actions
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
